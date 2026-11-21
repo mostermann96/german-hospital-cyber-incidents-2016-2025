@@ -1,0 +1,274 @@
+locations
+location_id;incident_id;site_entity;location;address;latitude;longitude;incident_year;inpatient_cases_recorded;report_year_recorded;gba_reference
+2;1;Lukaskrankenhaus Neuss;Neuss;Preußenstraße 84, 41464 Neuss;51.1905927;6.6726313;2016;28626;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260511781-00-2016-xml.pdf
+3;2;Klinikum Arnsberg, Karolinen Hospital Hüsten, St.Johannes-Hospital Neheim;Arnsberg-Hüsten;Stolte Ley 11 · 59759 Arnsberg-Hüsten;51.4263828;7.9993113;2016;15019;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260593600-03-2016-xml.pdf
+4;2;Klinikum Arnsberg, Karolinen Hospital Hüsten, St.Johannes-Hospital Neheim;Neheim;Springufer 7 · 59755 Neheim;51.45053;7.96351;2016;7705;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260593600-02-2016-xml.pdf
+5;3;Bezirkskliniken Mittelfranken;Ansbach;Feuchtwanger Straße 38, 91522 Ansbach;49.2933649;10.5512846;2016;4873;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260950033-01-2016-xml.pdf
+6;3;Bezirkskliniken Mittelfranken;Erlangen;Am Europakanal 71, 91056 Erlangen;49.6044792;10.9695649;2016;6623;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260950055-01-2016-xml.pdf
+7;3;Bezirkskliniken Mittelfranken;Engelthal;Reschenbergstrasse 20, 91238 Engelthal;49.4756144;11.4016833;2016;2301;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260950395-00-2016-xml.pdf
+8;4;Katholische Karl-Leisner-Klinikum, Kalkarer St. Nikolaus Hospitals;Kleve;Albersallee 5-7, 47533 Kleve;51.7732348;6.1363494;2016;17991;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260511031-00-2016-xml.pdf
+9;4;Katholische Karl-Leisner-Klinikum, Kalkarer St. Nikolaus Hospitals;Kevelaer;"Basilikastraße 55
+47623 Kevelaer";51.5840349;6.2499975;2016;8220;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260511020-00-2016-xml.pdf
+10;4;Katholische Karl-Leisner-Klinikum, Kalkarer St. Nikolaus Hospitals;Goch;"Voßheiderstraße 214
+47574 Goch";51.6770153;6.1813642;2016;10718;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260510995-00-2016-xml.pdf
+11;4;Katholische Karl-Leisner-Klinikum, Kalkarer St. Nikolaus Hospitals;Emmerich am Rhein;"Willibrordstraße 9
+46446 Emmerich am Rhein";51.8328513;6.2399678;2016;1565;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260511019-00-2016-xml.pdf
+12;5;Klinikum Fürth (first attack);Fürth;Jakob-Henle-Straße 1, 90766 Fürth;49.4847522;10.9745303;2016;41212;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260950077-00-2016-xml.pdf
+13;6;Marienhospital Aachen (Katholische Stiftung);Aachen;"Zeise 4
+52066 Aachen";50.7629613;6.0946293;2016;13263;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260530023-00-2016-xml.pdf
+14;7;Krankenhausgesellschaft pro homine (Marien-Hospital Wesel etc.);Wesel;"Pastor-Janßen-Str. 2-38
+46483 Wesel";51.6555613;6.6115781;2016;19793;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260511554-00-2016-xml.pdf
+15;8;Gesundheitszentrum Odenwaldkreis;Erbach im Odenwald;"Albert-Schweitzer-Str. 10-20
+64711 Erbach im Odenwald";49.651504;8.9999209;2016;12329;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260611511-00-2016-xml.pdf
+16;9;Hospital zum Heiligen Geist Fritzlar;Fritzlar;"Am Hospital 6
+34560 Fritzlar";51.1329832;9.2771784;2016;9252;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260620589-00-2016-xml.pdf
+17;10;Elisabeth-Klinikum;Schmalkalden;"Eichelbach 9
+98574 Schmalkalden";50.7217942;10.4416447;2016;8667;2016;https://qb-referenzdatenbank.g-ba.de/api/download/261600020-00-2016-xml.pdf
+18;11;Klinikum Bad Salzungen;Bad Salzungen;"Lindigallee 3
+36433 Bad Salzungen";50.8035713;10.217858;2016;17796;2016;https://qb-referenzdatenbank.g-ba.de/api/download/261600042-00-2016-xml.pdf
+19;12;Vitos Hadamar;Hadamar;"Mönchberg 8
+65589 Hadamar";50.4508095;8.040225;2016;1597;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260611178-01-2016-xml.pdf
+20;13;Gesundheitszentraum Wetterau;Schotten;"Wetterauer Platz 1
+63679 Schotten";50.5065352;9.1039993;2016;5243;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260611748-00-2016-xml.pdf
+21;14;Klinikum Oberberg ( standorte, gummersbach, waldbröl);Gummersbach;"Wilhelm-Breckow-Allee 20
+51643 Gummersbach";51.0156594;7.5667061;2016;22170;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260531046-01-2016-xml.pdf
+22;14;Klinikum Oberberg ( standorte, gummersbach, waldbröl);Waldbröl;Dr.-Goldenbogen-Straße 1, 51545 Waldbröl;50.8803819;7.6284661;2016;8774;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260531046-02-2016-xml.pdf
+23;15;St.-Franziskus-Hospital Winterberg;Winterberg;"Franziskusstraße 2
+59955 Winterberg";51.1932593;8.5378951;2016;3573;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260590845-00-2016-xml.pdf
+24;16;GFO-Kliniken;Bonn;Robert-Koch-Straße 1, 53115 Bonn;50.7170247;7.0937166;2017;20236;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260530192-01-2017-xml.pdf
+25;16;GFO-Kliniken;Bonn-Beuel;Hermannstraße 37, 53225 Bonn;50.736129;7.118162;2017;12647;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260530192-02-2017-xml.pdf
+26;16;GFO-Kliniken;Bad Honnef;Schülgenstraße 15, 53604 Bad Honnef;50.6473408;7.2262981;2017;8272;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260531206-00-2017-xml.pdf
+27;16;GFO-Kliniken;Troisdorf;Hospitalstraße 45, 53840 Troisdorf;50.8172393;7.1594753;2017;15744;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260531364-01-2017-xml.pdf
+28;16;GFO-Kliniken;Troisdorf-Sieglar;Wilhelm-Busch-Straße 9, 53844 Troisdorf;50.79745;7.11734;2017;11600;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260531364-02-2017-xml.pdf
+29;16;GFO-Kliniken;Brühl;Mühlenstraße 21-25, 50321 Brühl;50.8271781;6.9013216;2017;10082;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260530751-00-2017-xml.pdf
+30;16;GFO-Kliniken;Langenfeld;Klosterstraße 32, 40764 Langenfeld;51.1304461;6.9421453;2017;9459;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260511111-00-2017-xml.pdf
+31;16;GFO-Kliniken;Wissen;Schlossstraße 1, 57537 Wissen;50.7818972;7.7326651;2017;1339;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260710372-00-2017-xml.pdf
+32;17;Klinikum Frankfurt-Höchst;Frankfurt am Main;"Gotenstraße 6-8 6-8
+65929 Frankfurt am Main";50.1080779;8.5458473;2017;36938;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260610075-00-2017-xml.pdf
+33;18;Klinikum Görlitz;Görlitz;"Girbigsdorfer Straße 1-3
+02828 Görlitz";51.1616249;14.9706296;2017;22631;2017;https://qb-referenzdatenbank.g-ba.de/api/download/261401267-00-2017-xml.pdf
+34;19;St.-Josef-Krankenhaus;Xanten;"In der Hees 4
+46509 Xanten";51.64319;6.452759;2017;5645;2017;https://qb-referenzdatenbank.g-ba.de/api/download/260511587-00-2017-xml.pdf
+35;20;Klinikum Fürstenfeldbruck;Fürstenfeldbruck;"Josef-Spital-Straße
+82256 Fürstenfeldbruck";48.1808693;11.2589712;2018;18462;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260911295-00-2018-xml.pdf
+36;21;Krankenhaus GmbH Landkreis Weilheim-Schongau;Weilheim;"Johann-Baur-Straße 4
+82362 Weilheim";47.836989;11.1445943;2018;7893;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260912526-00-2018-xml.pdf
+37;21;Krankenhaus GmbH Landkreis Weilheim-Schongau;Schongau;Marie-Eberth-Straße 6, 86956 Schongau;47.8251698;10.8988591;2018;8486;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260912490-00-2018-xml.pdf
+38;22;AMEOS Kliniken (3 clinics);Bremerhaven;"Schiffdorfer Chaussee 29
+27574 Bremerhaven";53.5323927;8.6047632;2018;10327;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260400195-00-2018-xml.pdf
+39;22;AMEOS Kliniken (3 clinics);Geestland;"Langener Str. 66
+27607 Geestland";53.6156649;8.6311408;2018;7499;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260330258-00-2018-xml.pdf
+40;22;AMEOS Kliniken (3 clinics);Bremerhaven;Wiener Str. 1, 27568 Bremerhaven;53.5522254;8.5754175;2018;7676;2018;https://qb-referenzdatenbank.g-ba.de/api/download/260400219-00-2018-xml.pdf
+41;23;Klinikum Fürth;Fürth;Jakob-Henle-Straße 1, 90766 Fürth;49.4847522;10.9745303;2019;41708;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260950077-00-2019-xml.pdf
+42;24;Justus-Liebig-Universität Giessen;Gießen;Ludwigstraße 23 35390 Gießen;50.5751976;8.6663484;2019;46506;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260610279-00-2019-xml.pdf
+43;25;Medizinische Hochschule Hannover;Hannover;"Carl-Neuberg-Straße 1
+30625 Hannover";52.383675;9.8049554;2019;61798;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260320597-00-2019-xml.pdf
+44;26;2 German hospitals, Multiple healthcare providers worldwide;?;?;;;2019;;;
+45;27;Universitätsklinikum Heidelberg;Heidelberg;"Im Neuenheimer Feld 672
+69120 Heidelberg";49.4198697;8.6675759;2019;65054;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260820466-00-2019-xml.pdf
+46;28;Collm-Klinik Oschatz;Oschatz;"Parkstraße 1
+04758 Oschatz";51.2929837;13.1134762;2019;7154;2019;https://qb-referenzdatenbank.g-ba.de/api/download/261400471-00-2019-xml.pdf
+47;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Altenkirchen;Leuzbacher Weg 21, 57610 Altenkirchen;50.683113;7.6303998;2019;7128;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260710327-01-2019-xml.pdf
+48;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Hachenburg;Leipziger Straße 3, 57627 Hachenburg;50.6568502;7.8308518;2019;7607;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260710327-02-2019-xml.pdf
+49;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Alzey;Kreuznacher Straße 7-9, 55232 Alzey;49.7463032;8.1034138;2019;7039;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260730376-00-2019-xml.pdf
+50;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Asbach;Hospitalstraße 19, 53567 Asbach;50.6678247;7.4243811;2019;6159;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260712012-00-2019-xml.pdf
+51;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Bad Neuenahr-Ahrweiler;Schülzchenstraße 8, 53474 Bad Neuenahr-Ahrweiler;50.54328;7.13814;2019;248;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260711534-01-2019-xml.pdf
+52;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Kirchen (Sieg);Bahnhofstraße 24, 57548 Kirchen;50.8061681;7.879255;2019;12316;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260710350-00-2019-xml.pdf
+53;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Mainz;Auf der Steig 14-16, 55131 Mainz;49.9920155;8.2809916;2019;1360;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260730639-00-2019-xml.pdf
+54;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Neuwied;Marktstraße 74, 56564 Neuwied;50.4296581;7.4648072;2019;11904;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260710884-00-2019-xml.pdf
+55;29;DRK Trägergesellschaft Süd-West (11 hospitals, 4 care homes);Saarlouis;Lebacher Straße 36, 66822 Saarlouis;49.3135307;6.7442396;2019;11998;2019;https://qb-referenzdatenbank.g-ba.de/api/download/261000320-00-2019-xml.pdf
+56;30;Vivantes Auguste-Viktoria-Klinikum;Berlin;Rubensstraße 125, 12157 Berlin;52.462876;13.3449915;2019;25318;2019;https://qb-referenzdatenbank.g-ba.de/api/download/261101878-01-2019-xml.pdf
+57;31;Universitätsklinikum Heidelberg (USB stick theft);Heidelberg;"Im Neuenheimer Feld 672
+69120 Heidelberg";49.4198697;8.6675759;2019;65054;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260820466-00-2019-xml.pdf
+58;32;St.Elisabethen Krankenhaus;Ravensburg;"Elisabethenstraße 15
+88212 Ravensburg";47.7882778;9.6216667;2019;27207;2019;https://qb-referenzdatenbank.g-ba.de/api/download/260840916-00-2019-xml.pdf
+59;33;Universitätsklinikum Düsseldorf;Düsseldorf;"Moorenstraße 5
+40225 Düsseldorf";51.1950096;6.789881;2020;41738;2020;https://qb-referenzdatenbank.g-ba.de/api/search/get/2020/260510018-773410000-2020-xml/A-10
+60;34;Klinikum Braunschweig;Braunschweig;"Salzdahlumer Straße 90
+38126 Braunschweig";52.2375257;10.5464076;2021;32476;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260310209-772363000-2021-xml/A-10
+61;35;Städtisches Klinikum Dessau;Dessau-Roßlau;"Auenweg 38
+06847 Dessau-Roßlau";51.815672;12.1969451;2021;24548;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/261500757-771701000-2021-xml/A-10
+62;36;Klinikum Werra-Meißner;Witzenhausen;"Steinstraße 18-24
+37213 Witzenhausen";51.3433774;9.8599643;2021;2853;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260660873-772877000-2021-xml/A-10
+63;36;Klinikum Werra-Meißner;Eschwege;"Elsa-Brändström-Straße 1
+37269 Eschwege";51.1827568;10.0508826;2021;13401;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260660873-772876000-2021-xml/A-10
+64;37;SRH Holding (clinics & education);Heidelberg;Bonhoefferstraße 1, 69123 Heidelberg (SRH Kurpfalzkrankenhaus);49.4135074;8.6537758;2021;1939;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260820536-773569000-2021-xml/A-10
+65;37;SRH Holding (clinics & education);Karlsbad;Guttmannstraße 1, 76307 Karlsbad;48.9041128;8.5018368;2021;8378;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260820319-771604000-2021-xml/A-10
+66;37;SRH Holding (clinics & education);Sigmaringen;Hohenzollernstraße 40, 72488 Sigmaringen;48.0962686;9.2262484;2021;14478;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260841041-772740000-2021-xml/A-10
+67;37;SRH Holding (clinics & education);Heidelberg;Bonhoefferstraße 2-4, 69123 Heidelberg (SRH Berufsförderungswerk);49.4131004;8.6511804;2021;1939;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260820536-773569000-2021-xml/A-10
+68;37;SRH Holding (clinics & education);Suhl;Albert-Schweitzer-Straße 2, 98527 Suhl;50.6021601;10.7095592;2021;25181;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/261600941-773357000-2021-xml/A-10
+69;38;Klinikum Wolfenbüttel;Wolfenbüttel;"Alter Weg 80
+38302 Wolfenbüttel";52.1799988;10.5332577;2021;13702;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260310744-771528000-2021-xml/A-10
+70;39;Universitätsklinikum Essen;Essen;"Hufelandstr. 55
+45147 Essen";51.4361317;6.9895237;2021;50156;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260510381-771967000-2021-xml/A-10
+71;40;Evangelisches Krankenhaus Lippstadt;Lippstadt;"Wiedenbrücker Straße 33
+59555 Lippstadt";51.6848985;8.3416122;2021;14895;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260591345-771769000-2021-xml/A-10
+72;41;Universitätsklinikum Ulm (USB stick lost);Ulm;"Albert-Einstein-Allee 29
+89081 Ulm";48.4233425;9.9531914;2021;25584;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260840200-773713000-2021-xml/A-10
+73;42;BG Klinikum Boberg Hamburg (USB stick stolen);Hamburg;Bergedorfer Str. 10, 21033 Hamburg;53.5066667;10.1766667;2021;10332;2021;https://qb-referenzdatenbank.g-ba.de/api/search/get/2021/260200217-771495000-2021-xml/A-10
+74;43;Klinikum Ernst von Bergmann / Stadt Potsdam;Potsdam;"Charlottenstraße 72
+14467 Potsdam";52.4012738;13.0659262;2022;31744;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/261200220-772760000-2022-xml/A-10
+75;44;Klinikum Lippe, 3 Standorte Detmold Lemgo, Bad Salzuflen;Detmold;Röntgenstraße 18, 32756 Detmold;51.9410027;8.8800777;2022;28475;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260570486-771184000-2022-xml/A-10
+76;44;Klinikum Lippe, 3 Standorte Detmold Lemgo, Bad Salzuflen;Lemgo;Rintelner Straße 85, 32657 Lemgo;52.03748;8.900437;2022;12494;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260570486-771162000-2022-xml/A-10
+77;44;Klinikum Lippe, 3 Standorte Detmold Lemgo, Bad Salzuflen;Bad Salzuflen;Heldmanstraße 45, 32108 Bad Salzuflen;52.0755344;8.7633028;2022;542;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260570486-771161000-2022-xml/A-10
+78;45;Klinikum am Bruderwald (Bamberg);Bamberg;"Buger Straße 80
+96049 Bamberg";49.8673888;10.8909474;2022;34345;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260940029-771420000-2022-xml/A-10
+79;46;AMEOS Klinikum St. Elisabeth Neuburg;Neuburg a.D. Donau;"Müller-Gnadenegg-Weg 4
+86633 Neuburg a. d. Donau";48.7309564;11.1741898;2022;12876;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260911832-773487000-2022-xml/A-10
+80;47;Krankenhaus Reinbek;Reinbek;"Hamburger Straße 41
+21465 Reinbek";53.5103203;10.2410373;2022;17367;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260101193-772660000-2022-xml/A-10
+81;48;Universitätsklinikum Freiburg;Freiburg;"Hugstetter Straße 55
+79106 Freiburg";48.0060385;7.83563;2022;63942;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260832299-773657000-2022-xml/A-10
+82;49;Medizin Campus Bodensee;Friedrichshafen;"Röntgenstr. 2
+88048 Friedrichshafen";47.6727848;9.4300465;2022;18368;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260840493-771843000-2022-xml/A-10
+83;49;Medizin Campus Bodensee;Tettnang;"Emil-Münch-Straße 16
+88069 Tettnang";47.6731239;9.5980534;2022;8861;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260840610-771606000-2022-xml/A-10
+84;50;Katholische Hospitalvereinigung Ostwestfalen (3 hospitals);Bielefeld;Kiskerstraße 26, 33615 Bielefeld;52.0235586;8.5236841;2023;11370;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260571421-773289000-2023-xml/A-10
+85;50;Katholische Hospitalvereinigung Ostwestfalen (3 hospitals);Herford;Schwarzenmoorstraße 70, 32049 Herford;52.1262089;8.6998166;2023;26565;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260570306-773235000-2023-xml/A-10
+86;50;Katholische Hospitalvereinigung Ostwestfalen (3 hospitals);Rheda-Wiedenbrück;Sankt-Vinzenz-Straße 1, 33378 Rheda-Wiedenbrück;51.83288;8.3306696;2023;5011;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260571421-773291000-2023-xml/A-10
+87;51;Marienhaus-Gruppe;Bad Neuenahr-Ahrweiler;Dahlienweg 3, 53474 Bad Neuenahr-Ahrweiler;50.54079;7.1276;2023;9183;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260710087-771220000-2023-xml/A-10
+88;51;Marienhaus-Gruppe;Bitburg;Krankenhausstraße 1, 54634 Bitburg;49.9719287;6.5266811;2023;8981;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260720307-771730000-2023-xml/A-10
+89;51;Marienhaus-Gruppe;Bonn;Bonner Talweg 4-6, 53113 Bonn;50.7280533;7.0984229;2023;15220;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260530114-772222000-2023-xml/A-10
+90;51;Marienhaus-Gruppe;Gerolstein;Aloys-Schneider-Straße 37, 54568 Gerolstein;50.2264949;6.6650361;2023;1381;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260720307-771729000-2023-xml/A-10
+91;51;Marienhaus-Gruppe;Hermeskeil;Koblenzer Straße 23, 54411 Hermeskeil;49.6575374;6.9483636;2023;5304;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260720238-771619000-2023-xml/A-10
+92;51;Marienhaus-Gruppe;Neunkirchen;Klinikweg 1-5, 66539 Neunkirchen;49.3180937;7.2268359;2023;13274;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261000898-772663000-2023-xml/A-10
+93;51;Marienhaus-Gruppe;Neustadt an der Weinstraße;Stiftstraße 10, 67434 Neustadt;49.3465222;8.1499007;2023;12793;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260730229-772789000-2023-xml/A-10
+94;51;Marienhaus-Gruppe;Neuwied;Friedrich-Ebert-Straße 59, 56564 Neuwied;50.42748;7.4707856;2023;20463;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260711658-771924000-2023-xml/A-10
+95;51;Marienhaus-Gruppe;Ottweiler;Hohlstraße 2-4, 66564 Ottweiler;49.40114;7.16761;2023;6997;2019;https://qb-referenzdatenbank.g-ba.de/api/download/261000262-00-2019-xml.pdf
+96;51;Marienhaus-Gruppe;St. Wendel;Am Hirschberg 1a, 66606 St. Wendel;49.4540353;7.1786089;2023;13998;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261000422-772400000-2023-xml/A-10
+97;51;Marienhaus-Gruppe;Saarlouis;Kapuzinerstraße 4, 66740 Saarlouis;49.3151268;6.7565211;2023;20375;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261000331-771167000-2023-xml/A-10
+98;51;Marienhaus-Gruppe;Waldbreitbach;Margaretha-Flesch-Straße 4, 56588 Waldbreitbach;50.5405998;7.4222241;2023;1669;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260711658-771926000-2023-xml/A-10
+99;51;Marienhaus-Gruppe;Mainz;An der Goldgrube 11, 55131 Mainz;49.9890165;8.2702274;2023;22011;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260730183-772834000-2023-xml/A-10
+100;52;Carl-Thiem-Klinikum Cottbus;Cottbus;"Thiemstrasse 111
+03048 Cottbus";51.7438509;14.3228714;2023;34698;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261200721-773088000-2023-xml/A-10
+101;53;Universitätsmedizin Mainz;Mainz;"Langenbeckstraße 1
+55131 Mainz";49.9929008;8.2591889;2023;57089;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260730161-771621000-2023-xml/A-10
+102;54;SRH Klinikum Burgenlandkreis;Zeitz;Geschwister-Scholl-Straße 4, 06712 Zeitz;51.0313794;12.1593062;2023;8672;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261500416-773082000-2023-xml/A-10
+103;54;SRH Klinikum Burgenlandkreis;Naumburg (Saale);Humboldtstraße 31, 06618 Naumburg (Saale);51.1611008;11.8141108;2023;13216;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/261500416-773081000-2023-xml/A-10
+104;55;Klinikum Esslingen;Esslingen am Neckar;"Hirschlandstraße 97
+73730 Esslingen am Neckar";48.7374286;9.3265211;2023;22486;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260810475-771511000-2023-xml/A-10
+105;56;Universitätsklinikum Frankfurt;Frankfurt;"Theodor-Stern-Kai 7
+60590 Frankfurt am Main";50.095295;8.659883;2023;49442;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260612124-772858000-2023-xml/A-10
+106;57;GWDG / Universitätsmedizin Göttingen / Max-Planck;Göttingen;"Robert-Koch-Straße 40
+37075 Göttingen";51.5505375;9.9427949;2023;49367;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260310378-772918000-2023-xml/A-10
+107;58;Uniklinik Aachen;Aachen;"Zeise 4
+52066 Aachen";50.7629613;6.0946293;2023;38263;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260530012-771450000-2023-xml/A-10
+108;59;Universitätsmedizin Mainz;Mainz;"Langenbeckstraße 1
+55131 Mainz";49.9929008;8.2591889;2023;57089;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260730161-771621000-2023-xml/A-10
+109;60;Universitätsklinikum Köln;Köln;"Kerpener Straße 62
+50937 Köln";50.9242443;6.9161896;2023;57719;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260530283-773491000-2023-xml/A-10
+110;61;Gesundheit Nord (Geno) hospital network;Bremen;Sankt-Jürgen-Straße 1, 28177 Bremen (Klinikum Bremen-Mitte);53.0744997;8.8397284;2023;35557;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260400015-772995000-2023-xml/A-10
+111;61;Gesundheit Nord (Geno) hospital network;Bremen;Hammersbecker Straße 228, 28755 Bremen (Klinikum Bremen-Nord);53.1832451;8.5944015;2023;16014;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260400037-772828000-2023-xml/A-10
+112;61;Gesundheit Nord (Geno) hospital network;Bremen;Züricher Straße 40, 28325 Bremen (Klinikum Bremen-Ost);53.0644815;8.9418135;2023;14647;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260400026-772978000-2023-xml/A-10
+113;61;Gesundheit Nord (Geno) hospital network;Bremen;Senator-Weßling-Straße 1, 28277 Bremen (Klinikum Links der Weser);53.0357977;8.8185396;2023;16298;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260400048-772827000-2023-xml/A-10
+114;62;Klinikum Hochsauerland;Arnsberg-Neheim;Springufer 7, 59755 Arnsberg (St. Johannes-Hospital Neheim);51.4501595;7.9639247;2023;4773;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260593600-772598000-2023-xml/A-10
+115;62;Klinikum Hochsauerland;Arnsberg-Hüsten;Stolte Ley 5, 59759 Arnsberg (Karolinen-Hospital);51.42649;7.9989101;2023;26715;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260593600-772597000-2023-xml/A-10
+116;62;Klinikum Hochsauerland;Meschede;Schederweg 12, 59872 Meschede (St. Walburga-Krankenhaus);51.3424522;8.290078;2023;9792;2023;https://qb-referenzdatenbank.g-ba.de/api/download/260593600-772596000-2023-xml.pdf
+117;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Schwabach;Regelsbacher Straße 7, 91126 Schwabach (Diakoneo Klinik Schwabach);49.3326708;11.0121434;2023;6181;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260950226-771792000-2023-xml/A-10
+118;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Gerolzhofen;Schallfelder Straße 35, 97447 Gerolzhofen (Geomed-Klinik);49.8961975;10.3529016;2023;3779;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260960774-772867000-2023-xml/A-10
+119;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Nürnberg;Sankt-Johannis-Mühlgasse 19, 90419 Nürnberg (Cnopfsche Kinderklinik);49.4564055;11.0667091;2023;17799;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260900338-771453000-2023-xml/A-10
+120;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Ansbach;Strüth 24, 91522 Ansbach (Rangauklinik);49.3262155;10.5403701;2023;2166;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260950910-773714000-2023-xml/A-10
+121;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Neuendettelsau;Heilsbronner Straße 44, 91564 Neuendettelsau;49.2933168;10.7921782;2023;4806;2022;https://qb-referenzdatenbank.g-ba.de/api/search/get/2022/260950260-773257000-2022-xml/A-10
+122;63;Diakoneo-Krankenhaus Schwabach, Gerolzhofen;Schwäbisch Hall;Diakoniestraße 10, 74523 Schwäbisch Hall (Diak Klinikum);49.1249183;9.7418218;2023;23218;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260811192-772437000-2023-xml/A-10
+123;64;Klinikum Ingolstadt;Ingolstadt;"Krumenauerstraße 25
+85049 Ingolstadt";48.7701632;11.37659;2024;37128;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260913037-773586000-2024-xml/A-10
+124;65;Universitätsklinikum Leipzig;Leipzig;"Liebigstraße 18
+04103 Leipzig";51.3297324;12.3880204;2024;55505;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261401052-771392000-2024-xml/A-10
+125;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Buch;Lindenberger Weg 27, 13125 Berlin (Evangelische Lungenklinik);52.6318783;13.505129;2024;6149;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261101491-773105000-2024-xml/A-10
+126;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Wilmersdorf;Caspar-Theyß-Straße 27-31, 14193 Berlin (Martin-Luther-Krankenhaus);52.4910378;13.291578;2024;15275;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100310-772079000-2024-xml/A-10
+127;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Spandau;Stadtrandstraße 555, 13589 Berlin (Ev. Waldkrankenhaus Spandau);52.5626792;13.1559685;2024;23079;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100263-771637000-2024-xml/A-10
+128;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Lutherstadt Wittenberg;Paul-Gerhardt-Straße 42-45, 06886 Lutherstadt Wittenberg (Paul Gerhardt Stift);51.870259;12.6561934;2024;14620;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261500611-773668000-2024-xml/A-10
+129;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Zehlendorf;Spanische Allee 10-14, 14129 Berlin (Ev. Krankenhaus Hubertus);52.4313795;13.2191417;2024;5416;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100445-771221000-2024-xml/A-10
+130;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Mitte;Lützowstraße 24-26, 10785 Berlin (Ev. Elisabeth Klinik);52.5033514;13.365261;2024;7659;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100025-773370000-2024-xml/A-10
+131;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Wedding;Reinickendorfer Straße 61, 13347 Berlin (EGZB);52.5546253;13.3633419;2024;3331;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/511110107-771907000-2024-xml/A-10
+132;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Berlin-Spandau;Schönwalder Allee 26, 13587 Berlin (Wichern-Krankenhaus);52.5693598;13.1920912;2024;1866;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100252-771908000-2024-xml/A-10
+133;66;Johannesstift Diakonie (8 hospitals Berlin, Wittenberg...)(or 10);Coswig (Anhalt);Lerchenfeld 1, 06869 Coswig (Ev. Herzzentrum);51.8782839;12.4777678;2024;3208;2024;https://qb-referenzdatenbank.g-ba.de/api/download/261501348-773066000-2024-xml.pdf
+134;67;Thoraxzentrum Münnerstadt;Münnerstadt;"Michelsberg 1
+97702 Münnerstad";50.2507139;10.1782041;2024;2376;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260960525-773356000-2024-xml/A-10
+135;68;Wertachkliniken (2 hospitals);Bobingen;"Wertachstrasse 55
+86399 Bobingen";48.281463;10.8228116;2024;5547;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260970275-771588000-2024-xml/A-10
+136;68;Wertachkliniken (2 hospitals);Schwabmünchen;"Weidenhartstr. 35
+86830 Schwabmünchen";48.1757318;10.7462758;2024;5799;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260970297-771587000-2024-xml/A-10
+137;69;Universitätsklinikum Schleswig-Holstein;Kiel;Arnold-Heller-Straße 3, 24105 Kiel (UKSH Campus Kiel);54.3302475;10.1405066;2024;47064;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260102343-773448000-2024-xml/A-10
+138;69;Universitätsklinikum Schleswig-Holstein;Lübeck;Ratzeburger Allee 160, 23538 Lübeck (UKSH Campus Lübeck);53.8352125;10.7067786;2024;51146;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260102343-773447000-2024-xml/A-10
+139;69;Universitätsklinikum Schleswig-Holstein;Heide;"Esmarchstraße 50
+25746 Heide";;;2024;58;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260102343-773087000-2024-xml/A-10
+140;70;GFO-Kliniken in Bergisch Gladbach (Marienkrankenhaus, Vinzenz-Pallotti-Krankenhaus);Bergisch-Gladbach-Bensberg;"Vinzenz-Pallotti-Straße 20
+51429 Bergisch-Gladbach-Bensberg";50.9620438;7.1754671;2024;10501;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260531159-771642000-2024-xml/A-10
+141;70;GFO-Kliniken in Bergisch Gladbach (Marienkrankenhaus, Vinzenz-Pallotti-Krankenhaus);Bergisch Gladbach;"Dr.-Robert-Koch-Str. 18
+51465 Bergisch Gladbach";50.9938868;7.1305219;2024;8541;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260531159-771643000-2024-xml/A-10
+142;71;Klinikum Görlitz;Görlitz;"Girbigsdorfer Straße 1-3
+02828 Görlitz";51.1616249;14.9706296;2024;21813;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261401267-772378000-2024-xml/A-10
+143;72;Klinikum Stuttgart;Stuttgart;"Kriegsbergstraße 60
+70174 Stuttgart";48.7834998;9.173578;2024;37508;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260812364-772783000-2024-xml/A-10
+144;73;Krankenhaus Agatharied;Hausham;Norbert-Kerkel-Platz, 83734 Hausham;47.7669518;11.8272265;2024;18283;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260913798-773438000-2024-xml/A-10
+145;74;Universitätsmedizin Mainz (email theft via vendor);Mainz;"Langenbeckstraße 1
+55131 Mainz";49.9929008;8.2591889;2024;58667;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260730161-771621000-2024-xml/A-10
+146;75;KJF Augsburg (80+ social/medical facilities);Augsburg;Joseph-Mayer-Straße 1, 86154 Augsburg (KJF Klinik Josefinum gGmbH, Hauptstandort);48.3853085;10.8759551;2024;15491;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260970060-773482000-2024-xml/A-10
+147;75;KJF Augsburg (80+ social/medical facilities);Kempten (Allgäu);Robert-Weixler-Straße 50, 87439 Kempten (KJF Josefinum KJPP-Außenstelle);47.7265393;10.2989987;2024;26199;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260970173-771222000-2024-xml/A-10
+148;75;KJF Augsburg (80+ social/medical facilities);Neuburg an der Donau;Bürgermeister-Bergmair-Straße 4, 86633 Neuburg an der Donau (KJF KJPP Satellit/Tagesklinik);48.7368583;11.179161;2024;12970;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260911832-773487000-2024-xml/A-10
+149;76;Universitätsklinikum Bonn;Bonn;"Venusberg-Campus 1
+53127 Bonn";50.6965963;7.1019829;2024;54560;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260530103-772247000-2024-xml/A-10
+150;77;Universitätsklinikum Brandenburg;Brandenburg an der Havel;"Hochstraße 29
+14770 Brandenburg an der Havel";52.4138979;12.5463219;2024;21688;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261200457-772221000-2024-xml/A-10
+151;78;Lindenbrunn (hospital + care homes);Lindenbrunn;"Lindenbrunn 1
+31863 Coppenbrügge";52.1104958;9.5493874;2024;1307;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260320267-771622000-2024-xml/A-10
+152;79;Dreifaltigkeits-Hospital Lippstadt + 2 partner hospitals (Krankenhäuser in Erwitte und Geseke );Lippstadt;Klosterstraße 31, 59555 Lippstadt (Dreifaltigkeits-Hospital);51.6732341;8.3386701;2024;13089;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260591334-772754000-2024-xml/A-10
+153;79;Dreifaltigkeits-Hospital Lippstadt + 2 partner hospitals (Krankenhäuser in Erwitte und Geseke );Erwitte;Von-Droste-Straße 25, 59597 Erwitte (Marien-Hospital);51.61497;8.33837;2024;4005;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260591334-772755000-2024-xml/A-10
+154;79;Dreifaltigkeits-Hospital Lippstadt + 2 partner hospitals (Krankenhäuser in Erwitte und Geseke );Geseke;Bachstraße 76, 59590 Geseke (Hospital zum Heiligen Geist);51.6368787;8.5097466;2024;2519;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260591301-772756000-2024-xml/A-10
+155;80;Caritas-Klinik Dominikus;Berlin;Kurhausstraße 30, 13467 Berlin;52.6251705;13.2946426;2024;8487;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261100946-771567000-2024-xml/A-10
+156;81;Bezirkskliniken Mittelfranken;Ansbach;Feuchtwanger Straße 38, 91522 Ansbach;49.2933649;10.5512846;2024;4494;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260950033-771740000-2024-xml/A-10
+157;81;Bezirkskliniken Mittelfranken;Erlangen;Am Europakanal 71, 91056 Erlangen;49.6044792;10.9695649;2024;3462;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260950055-771746000-2024-xml/A-10
+158;81;Bezirkskliniken Mittelfranken;Engelthal;Reschenbergstrasse 20, 91238 Engelthal;49.4756144;11.4016833;2024;2408;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260950395-771747000-2024-xml/A-10
+159;82;Stiftung Bethanien Moers;Moers;Bethanienstraße 21, 47441 Moers;51.4610602;6.6342094;2025;23644;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260511510-772474000-2024-xml/A-10
+160;83;Kreiskliniken Reutlingen;Reutlingen;"Steinenbergstraße 31
+72764 Reutlingen";48.4835058;9.2179729;2025;24936;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260840028-771565000-2024-xml/A-10
+161;83;Kreiskliniken Reutlingen;Münsingen;"Lautertalstraße 47
+72525 Münsingen";48.4043105;9.4895327;2025;3929;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260840017-771544000-2024-xml/A-10
+162;84;Evangelische Krankenhaus;Düsselsdorf;"Kirchfeldstr. 40
+40217 Düsseldorf";51.2131909;6.7730449;2025;22772;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260510132-773140000-2024-xml/A-10
+163;85;LUP-Kliniken gGmbH (3 hospital sites);Hagenow;"Parkstraße 12
+19230 Hagenow";53.434493;11.1822574;2025;7498;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261300129-772800000-2024-xml/A-10
+164;85;LUP-Kliniken gGmbH (3 hospital sites);Ludwigslust;Neustädter Straße 1, 19288 Ludwigslust;53.3314566;11.4986254;2025;7128;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261300129-772799000-2024-xml/A-10
+165;87;AMEOS AG (100+ facilities, 18,000 employees);Hildesheim;Goslarsche Landstraße 60, 31135 Hildesheim;52.1455703;9.9841118;2025;3843;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260321509-772521000-2024-xml/A-10
+166;87;AMEOS AG (100+ facilities, 18,000 employees);Osnabrück;Knollstraße 31, 49088 Osnabrück;52.288264;8.0522117;2025;5741;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260342310-773382000-2024-xml/A-10
+167;87;AMEOS AG (100+ facilities, 18,000 employees);Hameln;Saint-Maur-Platz 1, 31785 Hameln;52.1075512;9.3516712;2025;495;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260321634-772519000-2024-xml/A-10
+168;87;AMEOS AG (100+ facilities, 18,000 employees);Goslar;Kösliner Straße 12, 38642 Goslar;51.9284302;10.4425643;2025;14492;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260310469-773543000-2024-xml/A-10
+169;87;AMEOS AG (100+ facilities, 18,000 employees);Anklam;Murchiner Straße 17, 17389 Anklam;53.8484519;13.6991529;2025;5350;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261300802-773375000-2024-xml/A-10
+170;87;AMEOS AG (100+ facilities, 18,000 employees);Ueckermünde;Ravensteinstraße 23, 17373 Ueckermünde;53.7399235;14.0226924;2025;7677;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261300802-773374000-2024-xml/A-10
+171;87;AMEOS AG (100+ facilities, 18,000 employees);Pasewalk;Prenzlauer Chaussee 30, 17309 Pasewalk;53.489659;13.9847723;2025;8214;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261300744-773369000-2024-xml/A-10
+172;87;AMEOS AG (100+ facilities, 18,000 employees);Lübeck;Kahlhorststraße 31-35, 23562 Lübeck;53.8500147;10.6911867;2025;782;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100659-772934000-2024-xml/A-10
+173;87;AMEOS AG (100+ facilities, 18,000 employees);Eutin;Hospitalstraße 22, 23701 Eutin;54.1327329;10.6013037;2025;11548;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100626-773006000-2024-xml/A-10
+174;87;AMEOS AG (100+ facilities, 18,000 employees);Heiligenhafen;Friedrich-Ebert-Straße 100, 23774 Heiligenhafen;54.3731738;10.953917;2025;1269;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100660-772926000-2024-xml/A-10
+175;87;AMEOS AG (100+ facilities, 18,000 employees);Oldenburg in Holstein;Mühlenkamp 5, 23758 Oldenburg in Holstein;54.2903473;10.8798682;2025;5557;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100626-773007000-2024-xml/A-10
+176;87;AMEOS AG (100+ facilities, 18,000 employees);Fehmarn;Ostlandstraße 26, 23769 Fehmarn;54.4810143;11.0658169;2025;557;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100626-773005000-2024-xml/A-10
+177;87;AMEOS AG (100+ facilities, 18,000 employees);Preetz;Am Krankenhaus 5, 24211 Preetz;54.238767;10.2791632;2025;647;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100660-772928000-2024-xml/A-10
+178;87;AMEOS AG (100+ facilities, 18,000 employees);Kiel;Tiroler Ring 621-623, 24147 Kiel;54.2965929;10.1852634;2025;493;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100660-772927000-2024-xml/A-10
+179;87;AMEOS AG (100+ facilities, 18,000 employees);Neustadt in Holstein;Am Kiebitzberg 10, 23730 Neustadt in Holstein;54.09088;10.82916;2025;1678;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260100659-772933000-2024-xml/A-10
+180;87;AMEOS AG (100+ facilities, 18,000 employees);Oberhausen;Wilhelmstraße 34, 46145 Oberhausen (St. Clemens);51.5176912;6.8449954;2025;15165;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260510791-772080000-2024-xml/A-10
+181;87;AMEOS AG (100+ facilities, 18,000 employees);Oberhausen;Mülheimer Straße 83, 46045 Oberhausen (St. Josef);51.4773152;6.8633291;2025;1459;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260510791-772082000-2024-xml/A-10
+182;87;AMEOS AG (100+ facilities, 18,000 employees);Aschersleben;Eislebener Straße 7a, 06449 Aschersleben;51.7465585;11.4580388;2025;14453;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261500358-772968000-2024-xml/A-10
+183;87;AMEOS AG (100+ facilities, 18,000 employees);Bernburg;Kustrenaer Straße 98, 06406 Bernburg;51.7822864;11.7355745;2025;5894;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261500449-773085000-2024-xml/A-10
+184;87;AMEOS AG (100+ facilities, 18,000 employees);Halberstadt;Gleimstraße 5, 38820 Halberstadt;51.9010627;11.0537561;2025;17045;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261530252-773419000-2024-xml/A-10
+185;87;AMEOS AG (100+ facilities, 18,000 employees);Haldensleben;Magdeburger Straße 67, 39340 Haldensleben;52.2874105;11.4185456;2025;11974;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261501008-773305000-2024-xml/A-10
+186;87;AMEOS AG (100+ facilities, 18,000 employees);Schönebeck;Köthener Straße 13, 39218 Schönebeck;52.0119667;11.7389455;2025;4607;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261500542-773578000-2024-xml/A-10
+187;87;AMEOS AG (100+ facilities, 18,000 employees);Staßfurt;Bodestraße 5, 39418 Staßfurt;51.8524702;11.5905168;2025;983;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/261500358-772967000-2024-xml/A-10
+188;87;AMEOS AG (100+ facilities, 18,000 employees);Simbach am Inn;Jakob-Weindler-Straße 1, 84359 Simbach am Inn;48.2639823;13.0144163;2025;537;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260921286-772759000-2024-xml/A-10
+189;87;AMEOS AG (100+ facilities, 18,000 employees);Bremerhaven;Wiener Straße 1, 27568 Bremerhaven;53.552315;8.5754295;2025;4705;2023;https://qb-referenzdatenbank.g-ba.de/api/search/get/2023/260400219-772690000-2023-xml/A-10
+190;87;AMEOS AG (100+ facilities, 18,000 employees);Geestland;Beerster Straße 73, 27607 Geestland;53.626;8.833;2025;1577;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260330258-772817000-2024-xml/A-10
+191;87;AMEOS AG (100+ facilities, 18,000 employees);Osterholz-Scharmbeck;Am Krankenhaus 4, 27711 Osterholz-Scharmbeck;53.2335004;8.7938907;2025;7392;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260330394-771364000-2024-xml/A-10
+192;87;AMEOS AG (100+ facilities, 18,000 employees);Warendorf;Am Krankenhaus 2, 48231 Warendorf;51.9609549;8.0022967;2025;12604;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260551132-771077000-2024-xml/A-10
+193;87;AMEOS AG (100+ facilities, 18,000 employees);Bad Salzuflen;Vor der Wallmauer 6, 32105 Bad Salzuflen;52.085;8.749;2025;1348;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260570453-771377000-2024-xml/A-10
+194;87;AMEOS AG (100+ facilities, 18,000 employees);Bremen;Rockwinkeler Landstraße 110, 28325 Bremen (AMEOS Klinikum Bremen, psychiatr. FK);53.0766365;8.94049;2025;2707;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260400117-773377000-2024-xml/A-10
+195;87;AMEOS AG (100+ facilities, 18,000 employees);Neuburg an der Donau;Bahnhofstraße A 86, 86633 Neuburg an der Donau (St. Elisabeth);48.7310347;11.1770108;2025;12970;2024;https://qb-referenzdatenbank.g-ba.de/api/search/get/2024/260911832-773487000-2024-xml/A-10
+196;88;GPR Klinikum Rüsselsheim;Rüsselsheim am Main;August-Bebel-Straße 59, 65428 Rüsselsheim am Main;49.9833117;8.4239375;2016-2018;27561;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260640480-00-2016-xml.pdf
+197;89;Klinikum Hanau;Hanau;"Leimenstraße 20
+63450 Hanau";50.1338022;8.9231332;2016-2018;34861;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260611236-00-2016-xml.pdf
+198;90;Kreiskrankenhaus Weilburg;Weilburg;"Am Steinbühl 2
+35781 Weilburg";50.485748;8.2523851;2016-2018;6621;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260611156-00-2016-xml.pdf
+199;91;Scivias Caritas Kiedrich;Kiedrich;Suttonstraße 24 65399 Kiedrich;50.0441554;8.0817242;2016-2018;782;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260641141-01-2016-xml.pdf
+200;92;Diakoniekrankenhaus Halle (Diakoniewerk Halle);Halle (Saale);Mühlweg 7, 06114 Halle (Saale);51.4941073;11.9595406;2016;6477;2016;https://qb-referenzdatenbank.g-ba.de/api/download/261500314-00-2016-xml.pdf
+201;93;Harzklinikum Dorothea Christiane Erxleben (sites Quedlinburg and Wernigerode);Quedlinburg;Ditfurter Weg 24, 06484 Quedlinburg;51.7949248;11.1635371;2016;15268;2016;https://qb-referenzdatenbank.g-ba.de/api/download/261500984-01-2016-xml.pdf
+202;93;Harzklinikum Dorothea Christiane Erxleben (sites Quedlinburg and Wernigerode);Wernigerode;Ilsenburger Straße 15, 38855 Wernigerode;51.8356733;10.7744176;2016;14839;2016;https://qb-referenzdatenbank.g-ba.de/api/download/261500984-02-2016-xml.pdf
+203;94;Klinikum Worms;Worms;Gabriel-von-Seidl-Straße 81, 67550 Worms;49.6493067;8.3200311;2016;33167;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260730321-00-2016-xml.pdf
+204;95;Hospital zum Heiligen Geist Frankfurt (Stiftung Hospital zum Heiligen Geist);Frankfurt am Main;Lange Straße 4-6, 60311 Frankfurt am Main;50.110375;8.6931268;2016;10808;2016;https://qb-referenzdatenbank.g-ba.de/api/download/260610133-00-2016-xml.pdf
