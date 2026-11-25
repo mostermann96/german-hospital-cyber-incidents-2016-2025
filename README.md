@@ -1,9 +1,5 @@
 ---
 title: German hospital cybersecurity incident analysis
-type: analysis-package
-tags: [hospital-cybersecurity, reproducibility]
-updated: 2026-11-21
-status: active
 ---
 
 # German hospital cybersecurity incidents, 2016–2025
@@ -16,9 +12,7 @@ unchanged. Analysis version: 1.1.0 (21 November 2026).
 
 ## Run the analysis
 
-Use Python 3.10 or later (tested with Python 3.11). Only the Python standard
-library is used. No package installation, Excel or internet connection is needed.
-[requirements.txt](requirements.txt) records that there are no third-party dependencies.
+Use Python 3.10 or later (tested with Python 3.11).
 
 Keep `analysis.py`, `incidents.csv` and `locations.csv` in the same directory.
 From that directory, run:
@@ -82,19 +76,13 @@ on unrecognised duration wording rather than assigning a duration silently.
 | `reported_source`, `supplementary_source`, `source_review_note` | Incident source references and any recorded review issues. |
 
 There are 202 named incident-location observations and one placeholder for two
-unidentified hospitals. A hospital may recur across incidents. The reported
-affected-site counts sum to 230; seven incidents have more reported sites than
-linked location rows. The 202 named observations are not a count of distinct hospitals.
+unidentified hospitals. A hospital may recur across incidents.
 
 The CSVs do not contain KRITIS flags. The script derives a **volume proxy**: a site
 meets the threshold if its recorded annual inpatient count is at least 30,000; an
 incident enters the `kritis` group if any linked site meets it. The `comparator`
 group includes incidents with no identified site meeting the threshold, including
 the unidentified-site incident. This gives 29 and 65 incidents, respectively.
-No supplied count equals exactly 30,000, so using `> 30000` would give the same
-groups in this dataset. Recorded report years are retained; the script does not
-select new annual volumes or establish legal designation. Historical report-year
-and source-evidence limitations remain visible in the input records.
 
 Categorical percentages use the whole group denominator, including unknown
 outcomes. Treatment delay has 27 yes, 42 no and 25 unknown records: 27/94 = 28.7%
@@ -145,26 +133,7 @@ precision. Mapped recovery has 64 observations, median 3.0 days, IQR 0.5–31.0
 days and mean 20.0 days. These are descriptive summaries under the stated coding,
 not verified times to complete restoration.
 
-## Provenance and checks
 
-The two input exports are unchanged from the supplied revision folder. Their
-SHA-256 hashes are:
-
-| File | SHA-256 |
-| --- | --- |
-| `incidents.csv` | `ec0555324fee2eab6b07c6cd61d239fa23a0e3df8b0fb0bbba5594804f66ce5e` |
-| `locations.csv` | `79592a64bacb5a19a95b681d81a1c73a08976d35d35d37641f2b1a38ba7518c9` |
-
-These identify this input version. Each execution records the hashes actually
-read; it does not claim verification against an absent source workbook. The tests
-check these released inputs, selected independently recomputed summary values,
-format handling, invalid inputs and execution from another directory. A deliberately
-changed dataset will require its own documented version and revised regression values.
-
-The public-report series does not measure national incidence or individual patient
-outcomes. Source-review notes and eligibility questions in the CSV remain
-unresolved by this software repair. Search/screening totals and external benchmark
-figures cannot be recalculated from the final incident records alone.
 
 ## Citation and license
 
